@@ -66,17 +66,28 @@ This system is designed for easy setup and use. Follow the installation instruct
 
 ### Installation
 
-1. **Download the Project**: Download the zip file of the project to your local machine.
-2. **Extract the Project**: Extract the downloaded zip file and copy the project folder.
+1. **Download or Clone the Project**:
+   - **Download**: Download the zip file of the project to your local machine and extract it.
+   - **Clone**: Alternatively, clone the repository using the following command:
+     ```sh
+     git clone <repository_url>
+     ```
+
+2. **Extract the Project** (if downloaded as a zip):
+   Extract the downloaded zip file and copy the project folder.
+
 3. **Place the Project in Your Web Server's Root Directory**:
    - For XAMPP, move the folder to `xampp/htdocs`.
    - For WAMP, move the folder to `wamp/www`.
    - For LAMP, move the folder to `var/www/html`.
+
 4. **Set Up the Database**:
    - Open PHPMyAdmin by visiting `http://localhost/phpmyadmin` in your web browser.
    - Create a new database named `hms`.
    - Import the `hms.sql` file provided within the zip package's `SQL file` folder into the newly created database.
-5. **Launch the Application**: Open your web browser and navigate to `http://localhost/<your_folder_name>/hospital` to access the frontend of the Patient Registration System.
+
+5. **Launch the Application**:
+   Open your web browser and navigate to `http://localhost/<your_folder_name>/hospital` to access the frontend of the Patient Registration System.
 
 ## Login Details
 
