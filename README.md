@@ -70,7 +70,7 @@ This system is designed for easy setup and use. Follow the installation instruct
    - **Download**: Download the zip file of the project to your local machine and extract it.
    - **Clone**: Alternatively, clone the repository using the following command:
      ```sh
-     git clone https://github.com/RisSonthalia/Patient-Regsitration-System.git
+     git clone Hospital-Management-System
      ```
 
 2. **Extract the Project** (if downloaded as a zip):
