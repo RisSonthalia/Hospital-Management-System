@@ -82,6 +82,7 @@ This system is designed for easy setup and use. Follow the installation instruct
    - For LAMP, move the folder to `var/www/html`.
 
 4. **Set Up the Database**:
+   - Activate the XAMPP.
    - Open PHPMyAdmin by visiting `http://localhost/phpmyadmin` in your web browser.
    - Create a new database named `hms`.
    - Import the `hms.sql` file provided within the zip package's `SQL file` folder into the newly created database.
