@@ -97,8 +97,8 @@ Access the system using the following login credentials:
 | Role     | Email            | Password   |
 |----------|------------------|------------|
 | Admin    | admin@gmail.com  | admin@12345|
-| Doctor   | ramu@gmail.com   | aman@12345 |
-| Patient  | aman@gmail.com   | 1234567    |
+| Doctor   | ramu@gmail.com   | ramu@12345 |
+| Patient  | aman@gmail.com   | aman@12345 |
 | Lab      | aman@gmail.com   | 123456789  |
 | Pharmacy | pharma@gmail.com | 1234567    |
 
