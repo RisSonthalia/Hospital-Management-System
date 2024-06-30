@@ -104,7 +104,7 @@ This system is designed for easy setup and use. Follow the installation instruct
    - Import the `hms.sql` file provided within the zip package's `SQL file` folder into the newly created database.
 
 5. **Launch the Application**:
-   Open your web browser and navigate to `http://localhost/<your_folder_name>/hospital` to access the frontend of the Patient Registration System.
+   Open your web browser and navigate to `http://localhost/<your_folder_name>/hospital` to access the frontend of the Hospital Management System.
 
 ## Login Details
 
