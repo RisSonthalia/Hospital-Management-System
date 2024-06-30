@@ -1,10 +1,10 @@
-# Patient Registration System - IIT Guwahati Hospital
+# Hospital Management System - IIT Guwahati Hospital
 
-The Patient Registration System for IIT Guwahati Hospital is designed to streamline the registration process for patients, doctors, and administrators. This comprehensive system facilitates easy management of patient records, doctor schedules, and administrative tasks.
+The Hospital Management System for IIT Guwahati Hospital is designed to streamline the registration process for patients, doctors, and administrators. This comprehensive system facilitates easy management of patient records, doctor schedules, and administrative tasks.
 
-## Features of the Patient Registration System - IIT Guwahati Hospital
+## Features of the Hospital Management System - IIT Guwahati Hospital
 
-The Patient Registration System for IIT Guwahati Hospital incorporates a variety of features designed to streamline the operational efficiency of hospital management, enhance the patient care process, and facilitate administrative tasks.
+The Hospital Management System for IIT Guwahati Hospital incorporates a variety of features designed to streamline the operational efficiency of hospital management, enhance the patient care process, and facilitate administrative tasks.
 
 ### Core Features
 
