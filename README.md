@@ -8,13 +8,13 @@ The Hospital Management System for IIT Guwahati Hospital is designed to streamli
 ![Home Page](hms_images/homepage.png)
 
 ### Admin Dashboard
-![Admin Dashboard](path/to/admin_dashboard.png)
+![Admin Dashboard](hms_images/admin.png)
 
 ### Patient Dashboard
-![Patient Dashboard](path/to/patient_dashboard.png)
+![Patient Dashboard](hms_images/patient.png)
 
 ### Prescription
-![Prescription](path/to/prescription.png)
+![Prescription](hms_images/presc.png)
 
 
 
