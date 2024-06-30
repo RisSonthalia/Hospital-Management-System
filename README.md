@@ -102,6 +102,17 @@ Access the system using the following login credentials:
 | Lab      | aman@gmail.com   | 123456789  |
 | Pharmacy | pharma@gmail.com | 1234567    |
 
+## 🤝 Collaboration
+
+We welcome contributions from the community! Here’s how you can get involved:
+
+1. **Fork the Repository**: Click the "Fork" button on the top right to get a copy of the repository.
+2. **Clone Your Fork**: Use `git clone <your-fork-url>` to clone your forked repository to your local machine.
+3. **Create a Branch**: Use `git checkout -b feature-name` to create a new branch.
+4. **Make Changes**: Implement your changes and commit them with clear and descriptive messages.
+5. **Push Your Changes**: Use `git push origin feature-name` to push your changes to your fork.
+6. **Create a Pull Request**: Go to the original repository and create a pull request, describing your changes and the reasons for them.
+   
 ## Developer
 
 **Name**: Rishab Sonthalia  
