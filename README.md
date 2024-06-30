@@ -2,6 +2,22 @@
 
 The Hospital Management System for IIT Guwahati Hospital is designed to streamline the registration process for patients, doctors, and administrators. This comprehensive system facilitates easy management of patient records, doctor schedules, and administrative tasks.
 
+## Screenshots
+
+### Home Page
+![Home Page](path/to/homepage.png)
+
+### Admin Dashboard
+![Admin Dashboard](path/to/admin_dashboard.png)
+
+### Patient Dashboard
+![Patient Dashboard](path/to/patient_dashboard.png)
+
+### Prescription
+![Prescription](path/to/prescription.png)
+
+
+
 ## Features of the Hospital Management System - IIT Guwahati Hospital
 
 The Hospital Management System for IIT Guwahati Hospital incorporates a variety of features designed to streamline the operational efficiency of hospital management, enhance the patient care process, and facilitate administrative tasks.
