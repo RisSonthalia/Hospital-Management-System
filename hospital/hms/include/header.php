@@ -20,7 +20,7 @@
 		<ul class="nav navbar-right">
 			<!-- start: MESSAGES DROPDOWN -->
 			<li style="padding-top:2% ">
-				<h2 style="font-weight: 400;">Hospital Management System, IITG Hospital</h2>
+				<h2 style="font-weight: 400;">Patient Registration System, IITG Hospital</h2>
 			</li>
 
 
