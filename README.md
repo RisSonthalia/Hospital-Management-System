@@ -14,7 +14,7 @@ The Patient Registration System for IIT Guwahati Hospital is designed to streaml
 ![Patient Dashboard](PRS_images/patient_dash.png)
 
 ### Prescription
-![Prescription](PRS_images/prescription.png)
+![Prescription](PRS_images/prescr.png)
 
 
 
